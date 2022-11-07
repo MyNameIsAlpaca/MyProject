@@ -1,0 +1,79 @@
+
+  body {
+  background-image: url(img/background.jpg);
+  background-size: cover;
+}
+
+main {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 25px;
+  margin-left: 350px;
+  margin-right: 350px;
+  padding-bottom: 100px;
+}
+header {
+  padding: 50px;
+  text-align: center;
+  margin-top: 50px;
+}
+header>div {
+  color: #66ff33;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+#logo {
+  height: 100px;
+  opacity: 1.0;
+}
+
+main>nav {
+  padding: 10px;
+  margin: auto;
+  text-align:center;
+  background-color: #00cc00;
+  height: 20px;
+  width: 600px;
+}
+
+main>section {
+  margin-left: 24%;
+  margin-top: 20px
+}
+.booleaners {
+  display: inline-block;
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+.lontananza {
+  color: white;
+  font-family: sans-serif;
+}
+.stato {
+  color: white;
+  font-family: sans-serif;
+}
+
+#carica1 {
+  background-color: #ffa64d;
+  width: 350px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+#carica2 {
+  background-color: #00cc00;
+  width: 550px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+#carica3 {
+  background-color: red;
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+}
